@@ -8,10 +8,11 @@ The Hush-Hush app stores and processes personal data that you have provided to u
 
 The app does use third-party services that declare their Terms and Conditions.
 
-<p>
-                    Link to Terms and Conditions of third-party service
-                    providers used by the app
-                  </p> <ul><li><a href="https://policies.google.com/terms" target="_blank" rel="noopener noreferrer">Google Play Services</a></li><li><a href="https://developers.google.com/admob/terms" target="_blank" rel="noopener noreferrer">AdMob</a></li><li><a href="https://firebase.google.com/terms/analytics" target="_blank" rel="noopener noreferrer">Google Analytics for Firebase</a></li><li><a href="https://firebase.google.com/terms/crashlytics" target="_blank" rel="noopener noreferrer">Firebase Crashlytics</a></li><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----><!----></ul></div> <p>
+Link to Terms and Conditions of third-party service providers used by the app
+- [Google Play Services](https://policies.google.com/terms)
+- [AdMob](https://developers.google.com/admob/terms)
+- [Google Analytics for Firebase](https://firebase.google.com/terms/analytics)
+- [Firebase Crashlytics](https://firebase.google.com/terms/crashlytics)
 				  
 You should be aware that there are certain things that Codekaaru will not take responsibility for. Certain functions of the app will require the app to have an active internet connection. The connection can be Wi-Fi or provided by your mobile network provider, but Codekaaru cannot take responsibility for the app not working at full functionality if you don’t have access to Wi-Fi, and you don’t have any of your data allowance left.
 
