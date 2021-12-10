@@ -6,7 +6,7 @@ By choosing to use our app, you agree to the collection and use of information i
 ### Information collection and use
 We do not collect any data created by you in the app. The wishlists and group files you create are stored in your device and are shared by you with your contacts using your choice of third-party app. None of these files are available to us. 
 
-Our app uses some third-party services listed below that may collect certain information. The type of information collected by these third-party servies, their practices and instructions about how to opt-out of certain options is given below.
+Our app uses some third-party services listed below that may collect certain information except for the data stated above. The type of information collected by these third-party servies, their practices and instructions about how to opt-out of certain options is given below.
 
 - **Firebase Analytics**  
 We use analytics services offered by Google LLC to collect app usage data such as region location, device name, Android system version, app settings, user preferences, and other statistics to help improve your user experience.  
