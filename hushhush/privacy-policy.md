@@ -1,12 +1,11 @@
 ## Privacy Policy of Hush-Hush
 
-This page describes the collection, use and disclosure of your personal information by us and third-party services used in the app.  
-By choosing to use our app, you agree to the collection and use of information in relation to this policy.
+This page describes the collection, use and disclosure of your personal information by us and third-party services used in the app. By choosing to use our app, you agree to the collection and use of information in relation to this policy.
 
 ### Information collection and use
 We do not collect any data created by you in the app. The wishlists and group files you create are stored in your device and are shared by you with your contacts using your choice of third-party app. None of these files are available to us. 
 
-Our app uses some third-party services listed below that may collect certain information except for the data stated above. The type of information collected by these third-party servies, their practices and instructions about how to opt-out of certain options is given below.
+We use few third-party services listed below that may collect certain information except for the data stated above. The type of information collected by these third-party services, their practices and instructions on how to opt-out of certain options is given below.
 
 - **Firebase Analytics**  
 We use analytics services offered by Google LLC to collect app usage data such as region location, device name, Android system version, app settings, user preferences, and other statistics to help improve your user experience.  
@@ -36,4 +35,4 @@ Our service does not address anyone under the age of 13. Minors may only downloa
 We may update our privacy policy from time to time. If significant changes have been made, we will inform you via the app or as part of app update log so that you can review the changes.
 
 ### Contact Us
-For any queries regarding our privacy policy, please contact us at codekaaru@gmail.com.
+For any queries regarding our privacy policy, you can contact us at codekaaru@gmail.com.
