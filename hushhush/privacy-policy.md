@@ -1,4 +1,4 @@
-## Privacy Policy of Hush-Hush
+## Privacy Policy | Hush-Hush
 
 This page describes the collection, use and disclosure of your personal information by us and third-party services used in the app. By choosing to use our app, you agree to the collection and use of information in relation to this policy.
 
