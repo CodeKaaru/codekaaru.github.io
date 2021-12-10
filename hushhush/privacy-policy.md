@@ -32,7 +32,7 @@ Our app's "App info" section contains links to other sites as part of giving att
 Our service does not address anyone under the age of 13. Minors may only download and use the app when accompanied by an adult.
 
 ### Changes to This Privacy Policy
-We may update our privacy policy from time to time. If significant changes have been made, we will inform you via the app or as part of app update log so that you can review the changes.
+We may update our privacy policy from time to time. If significant changes have been made, we will inform you via the app or as a part of the app update log so that you can review the changes.
 
 ### Contact Us
 For any queries regarding our privacy policy, you can contact us at codekaaru@gmail.com.
