@@ -4,18 +4,18 @@ This page describes the collection, use and disclosure of your personal informat
 
 ### Information collection and use
 
-- **Data collected by us [Hush-Hush]**
+- **Data collected by us [Hush-Hush]**  
 Data collected by us is stored in our database server which is located in US.
 
-*Groups*
+  - **Groups**  
 Groups created in the app have details such as group name, celebration date, budget, these are stored in our database. Along with this, any participant data (name and wishlist) which is added in the group gets stored in our database. Here, name is stored in plain text and wishlist is stored in encrypted format in our database.
 This data is subject to deletion after 3 to 6 months from the date of creation of the data. This deletion process is performed automatically at our end. In other words, this data is not permanently stored in our database. Additionally, users who have created groups have an option to delete them.
 
-*Wishlists and Giftees in app*
+  - **Wishlists and Giftees in app**  
 The app has three tabs out of which two are wishlists and giftees. Data present in these two tabs are stored in the user's device and are not sent to us. The wishlists created in the wishlist tab are stored in the user's device only. The giftees list is populated by extracting giftee information from groups (from our server), these giftees then are stored in the user's device. Users can delete wishlists and giftees anytime.
 
-*Anonymous user id*
-Users of Hush-Hush web and app are not required to create any accounts. However to identify user data such as wishlist and groups, each user is assigned a random anonymous identifier which are known as anonymous accounts. These accounts are automatically deleted from our servers when the user is inactive for more than a month and isn't present in any of the groups. 
+  - **Anonymous user id**  
+Users of Hush-Hush web and app are not required to create any accounts. However to identify user data such as wishlist and groups, each user is assigned a random anonymous identifier which are known as anonymous accounts. These accounts are automatically deleted from our servers when the user is inactive for more than a month and isn't present in any of the groups.    
 
 
 We use few third-party services listed below that may collect certain information except for the data stated above. The type of information collected by these third-party services, their practices and instructions on how to opt-out of certain options is given below.
