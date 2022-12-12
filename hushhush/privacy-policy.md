@@ -8,7 +8,7 @@ This page describes the collection, use and disclosure of your personal informat
 Data collected by us is stored in our database server which is located in US.
 
   - **Groups**  
-Groups created in the app have details such as group name, celebration date, budget, these are stored in our database. Along with this, any participant data (name and wishlist) which is added in the group by web user or app user gets stored in our database. Here, name is stored in plain text and wishlist is stored in encrypted format in our database.  
+Groups created in the app have details such as group name, celebration date, budget, these are stored in our database. Along with this, any participant data (name and wishlist) which is added in the group by web user or app user gets stored in our database. Here, name is stored in plain text and wishlist is stored in encrypted format in our database. Wishlist has fields such as wishes and notes and users are responsible for any data they share in these fields as these are generic fields.  
 This data is subject to deletion after 3 to 6 months from the date of creation of the data. This deletion process is performed automatically at our end. In other words, this data is not permanently stored in our database. Additionally, users who have created groups (group admins) have an option to delete individual participant data or whole group.
 
   - **Wishlists and Giftees in app**  
