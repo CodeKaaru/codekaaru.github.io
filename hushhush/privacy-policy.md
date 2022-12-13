@@ -15,7 +15,7 @@ This data is subject to deletion after 3 to 6 months from the date of creation o
 The app has three tabs out of which two are wishlists and giftees. Data present in these two tabs are stored in the user's device and are not sent to us. The wishlists created in the wishlist tab are stored in the user's device only. The giftees list is populated by extracting giftee information from groups (from our server), these giftees then are stored in the user's device. Users can delete wishlists and giftees anytime.
 
   - **Anonymous user id**  
-Users of Hush-Hush web and app are not required to create any accounts. However to identify user data such as wishlist and groups, each user is assigned a random anonymous identifier which are known as anonymous accounts. These accounts are automatically deleted from our servers when the user is inactive for more than a month and isn't present in any of the groups.    
+Users of Hush-Hush (web and app) are not required to create any accounts. However to map user data such as wishlist and groups to users, each user is assigned a random anonymous identifier which are known as anonymous accounts. These accounts are automatically deleted from our servers when the user is inactive for more than a month and isn't present in any of the groups. We detect and collect online/offline status of these accounts to aid us in determining inactive status of users.  
 
 
 We use few third-party services listed below that may collect certain information except for the data stated above. The type of information collected by these third-party services, their practices and instructions on how to opt-out of certain options is given below.
