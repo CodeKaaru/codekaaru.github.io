@@ -4,8 +4,8 @@ This page describes the collection, use and disclosure of your personal informat
 
 ### Information collection and use
 
-- **Data collected by us [Hush-Hush]**  
-Data collected by us is stored in our database server which is located in US.
+- **Data collected by us [Hush-Hush] which is required for the product functionality**  
+We use Firebase Database solution to store data collected by us. This database server is located in the US.
 
   - **Groups**  
 Groups created in the app have details such as group name, celebration date, budget, these are stored in our database. Along with this, any participant data (name and wishlist) which is added in the group by web user or app user gets stored in our database. Here, name is stored in plain text and wishlist is stored in encrypted format in our database. Wishlist has fields such as wishes and notes and users are responsible for any data they share in these fields as these are generic fields.  
@@ -17,23 +17,22 @@ The app has three tabs out of which two are wishlists and giftees. Data present 
   - **Anonymous user id**  
 Users of Hush-Hush (web and app) are not required to create any accounts. However to map user data such as wishlist and groups to users, each user is assigned a random anonymous identifier which are known as anonymous accounts. These accounts are automatically deleted from our servers when the user is inactive for more than a month and isn't present in any of the groups. We detect and collect online/offline status of these accounts to aid us in determining inactive status of users.  
 
+- **Data collected by third-party services**  
+We use few third-party services listed below that may collect certain information. The type of information collected by these third-party services, their practices and instructions on how to opt-out of certain options is given below.
+Our privacy policy does not apply to third-party services used by us. Thus, we advise you to consult the respective Privacy Policies of these third-party services for more detailed information.
 
-We use few third-party services listed below that may collect certain information except for the data stated above. The type of information collected by these third-party services, their practices and instructions on how to opt-out of certain options is given below.
-
-- **Firebase Analytics**  
+  - **Firebase Analytics**  
 We use analytics services offered by Google LLC to collect app usage data such as region location, device name, Android system version, app settings, user preferences, and other statistics to help improve your user experience.  
 You can find more information on data usage by Google LLC here: [Safeguarding your data - Analytics](https://support.google.com/analytics/answer/6004245#zippy=%2Cour-privacy-policy%2Cgoogle-analytics-cookies-and-identifiers)
 
-- **Firebase Crashlytics**  
+  - **Firebase Crashlytics**  
 We use crash reporting services offered by Google LLC. Crashlytics helps collecting, analyzing and organizing app crash reports. In a case of an app crash, Crashlytics transmits certain technical information to us. This data may include information such as your device model, operating system version, the configuration of the app when utilizing the application, the time and date of the crash, and other statistics. This data is used by us to identify issues in our app and remedy them thereby providing you a more stable app.
 
-- **Google AdMob**  
+  - **Google AdMob**  
 AdMob is a mobile advertising company which is a subsidiary of Google LLC. We use advertisements to support our app.  
 Google may use the advertising ID from the device on which the ad is serving to generate interests and demographics (for example, 'sports enthusiasts'). Interests, demographics, and other data may be used to serve better personalized ads.  
 Additional details can be found here: [How Google uses information](https://policies.google.com/technologies/partner-sites)  
-To complement personalized advertising, Ads Settings lets users view and edit their interests and demographics. Some users may choose to opt out of personalized ads. These settings can be found here: [Ad Settings](https://adssettings.google.com/u/0/authenticated)
-
-Our privacy policy does not apply to third-party services used by us. Thus, we advise you to consult the respective Privacy Policies of these third-party services for more detailed information.
+To complement personalized advertising, Ads Settings lets users view and edit their interests and demographics. Some users may choose to opt out of personalized ads. These settings can be found here: [Ad Settings](https://adssettings.google.com/u/0/authenticated)  
 
 ### Cookies
 Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device’s internal memory. This Service does not use these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
