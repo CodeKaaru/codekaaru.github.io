@@ -1,3 +1,6 @@
+This page is now moved to a [new location](https://hushhush-codekaaru.web.app/legal/privacy-policy.html). The privacy policy in the new location is modified to make the policy more elaborate and clear. Nothing is changed in terms of information collected by us.  
+This page will not be updated in the future. For latest updates, please refer the new policy page which is effective from 24 Aug 2023.
+
 ## Privacy Policy | Hush-Hush
 
 This page describes the collection, use and disclosure of your personal information by us and third-party services used in the app. By choosing to use our app, you agree to the collection and use of information in relation to this policy.
