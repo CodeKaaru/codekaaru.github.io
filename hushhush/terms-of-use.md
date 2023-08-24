@@ -1,3 +1,7 @@
+This page is now moved to a [new location](https://hushhush-codekaaru.web.app/legal/terms-of-use.html). 
+The terms of use page in the new location is slightly modified to make it more elaborate and clear.    
+This page will not be updated in the future. For latest updates, please refer the new policy page which is effective from 24 Aug 2023.
+
 ## Terms of use | Hush-Hush
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions. The app itself, and all the trademarks, copyright, database rights, and other intellectual property rights related to it, still belong to Codekaaru.
