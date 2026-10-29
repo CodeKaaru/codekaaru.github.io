@@ -31,7 +31,7 @@
             z-index: 100;
         }
         .header-container {
-            max-width: 1100px;
+            max-width: 900px;
             margin: 0 auto;
             display: flex;
             align-items: center;
@@ -54,38 +54,35 @@
             font-weight: 700;
         }
         .hero {
-            max-width: 800px;
+            max-width: 700px;
             margin: 0 auto;
-            padding: 80px 5% 40px 5%;
+            padding: 80px 5% 20px 5%;
             text-align: center;
         }
-        .hero h1 {
-            font-size: 2.5rem;
-            margin-bottom: 15px;
-            font-weight: 800;
-        }
         .hero p {
-            font-size: 1.15rem;
+            font-size: 1.25rem;
             color: var(--text-light);
+            font-weight: 500;
         }
         .showcase {
-            max-width: 1100px;
+            max-width: 900px;
             margin: 0 auto;
             padding: 20px 5% 80px 5%;
         }
         .app-row {
             display: flex;
             align-items: center;
-            gap: 60px;
-            padding: 60px 0;
+            gap: 40px;
+            padding: 40px 0;
         }
         .app-row.reverse {
             flex-direction: row-reverse;
         }
-        .app-meta, .app-img-box {
-            flex: 1;
+        .app-meta {
+            flex: 1.4;
         }
         .app-img-box {
+            flex: 0.6;
             display: flex;
             justify-content: center;
         }
@@ -95,36 +92,53 @@
             transition: transform 0.2s ease;
         }
         .app-link:hover {
-            transform: scale(1.02);
+            transform: scale(1.04);
         }
         .app-icon {
-            width: 160px;
-            height: 160px;
-            border-radius: 32px;
-            box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+            width: 150px;
+            height: 150px;
+            border-radius: 30px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.06);
             object-fit: cover;
         }
         .app-title-link {
             text-decoration: none;
             color: var(--text-dark);
-        }
-        .app-title-link:hover {
-            color: var(--accent-blue);
-        }
-        .app-meta h2 {
-            font-size: 2rem;
-            margin-bottom: 15px;
-            font-weight: 700;
             display: inline-block;
+            margin-bottom: 12px;
+        }
+        .app-title-link h2 {
+            font-size: 1.8rem;
+            font-weight: 700;
+            display: inline-flex;
+            align-items: center;
+            gap: 6px;
+            transition: color 0.2s ease;
+        }
+        /* Visual anchor showing heading works as a link */
+        .app-title-link h2::after {
+            content: "↗";
+            font-size: 1.2rem;
+            color: var(--text-light);
+            font-weight: 400;
+            transition: transform 0.2s ease, color 0.2s ease;
+        }
+        .app-title-link:hover h2 {
+            color: var(--accent-blue);
+            text-decoration: underline;
+        }
+        .app-title-link:hover h2::after {
+            color: var(--accent-blue);
+            transform: translate(2px, -2px);
         }
         .app-meta p {
             color: var(--text-light);
-            margin-bottom: 25px;
+            margin-bottom: 20px;
             font-size: 1.05rem;
         }
         .store-badge {
             display: inline-block;
-            height: 45px;
+            height: 42px;
             transition: transform 0.2s ease;
         }
         .store-badge:hover {
@@ -140,7 +154,7 @@
             text-align: center;
         }
         .footer-container {
-            max-width: 1100px;
+            max-width: 900px;
             margin: 0 auto;
         }
         .footer-container p {
@@ -159,10 +173,10 @@
             .app-row, .app-row.reverse {
                 flex-direction: column;
                 text-align: center;
-                gap: 30px;
-                padding: 40px 0;
+                gap: 25px;
+                padding: 35px 0;
             }
-            .hero h1 { font-size: 2rem; }
+            .app-title-link h2 { justify-content: center; }
             .app-icon { width: 130px; height: 130px; }
         }
     </style>
@@ -184,6 +198,7 @@
 
     <section class="showcase">
         
+        <!-- App 1: Ajack (Logo Left, Text Right Closer Together) -->
         <div class="app-row">
             <div class="app-img-box">
                 <a href="https://ajack.codekaaru.com/" target="_blank" class="app-link">
@@ -201,6 +216,7 @@
             </div>
         </div>
 
+        <!-- App 2: Hush Hush (Logo Right, Text Left Closer Together) -->
         <div class="app-row reverse">
             <div class="app-img-box">
                 <a href="https://hushhush.codekaaru.com/" target="_blank" class="app-link">
